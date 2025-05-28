@@ -1,0 +1,15 @@
+{
+    "city": "HUIZHOU",
+    "location": "TEN MILE SILVER BEACH",
+    "camera": "LICE-7c",
+    "lens": "TAMRON 150-500MM F/5-6.7 DI III VXD",
+    "font_size": "40",
+    "signature_logo_width": "600",
+    "output_path": "C:/Users/VerNe/Downloads/Documents/watermark_generator_tkinter/output",
+    "filename_config": {
+        "city": false,
+        "location": false,
+        "camera": true,
+        "lens": true
+    }
+}

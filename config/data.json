@@ -1,0 +1,34 @@
+{
+    "cities": [
+        "GUANGZHOU",
+        "SHENZHEN",
+        "HUIZHOU"
+    ],
+    "locations": {
+        "GUANGZHOU": [
+            "HUANGPU",
+            "PIZHOU",
+            "HAIZHU"
+        ],
+        "SHENZHEN": [
+            "LUOHU",
+            "FUTIAN",
+            "NANSHAN",
+            "BAOAN"
+        ],
+        "HUIZHOU": [
+            "TEN MILE SILVER BEACH"
+        ]
+    },
+    "cameras": [
+        "LICE-7C",
+        "LICE-7c"
+    ],
+    "lenses": [
+        "SIGMA 24-70MM F2.8 DG DN II ART",
+        "SIGMA 24-70mm F2.8 DG DN II Art",
+        "TAMRON 150-500MM F/5-6.7 DI III VXD",
+        "VILTROX AF 40MM F2.5",
+        "tamron 150-500mm F/5-6.7 Di III VXD"
+    ]
+}
